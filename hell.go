@@ -4,8 +4,7 @@ import "fmt"
 
 /// find out the number that two times
 func main() {
-	var a []int = []int{1, 2, 4, 4, 15, 15, 7, 88, 3}
-
+	var a []int = []int{1, 2, 4, 4, 15, 15, 7, 88, 88, 3}
 	for i, element := range a {
 		for j := i + 1; j < len(a); j++ {
 			element2 := a[j]
