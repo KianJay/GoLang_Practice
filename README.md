@@ -1,2 +1,2 @@
 # GoLang_Practice
-Practice Golang 
+Exercising Golang 
